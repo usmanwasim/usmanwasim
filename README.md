@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm UsmanWasim</h1>
+<h1 align="center">Hi 👋, I'm Usman Wasim</h1>
 <h3 align="center">Architecting the Future: Navigating Web 3.0 as a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanwasim&label=Profile%20views&color=0e75b6&style=flat" alt="usmanwasim" /> </p>
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/usman99519484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman99519484" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usman wasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman wasim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usman-wasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-wasim" height="30" width="40" /></a>
 <a href="https://fb.com/usmanwasim2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usmanwasim2210" height="30" width="40" /></a>
 <a href="https://instagram.com/usmanwasim2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmanwasim2210" height="30" width="40" /></a>
 </p>
